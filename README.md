@@ -1,9 +1,10 @@
+
 # Setting up VSCode to debug Zig on Linux
 This document will describe how to setup and configure VSCode for IDE debugging with Zig.
 
 This document was accurate as of Zig 0.13.0
 
-It is assumed that you already have Zig and ZLS installed (https://github.com/zigtools/zls) and working properly.
+It is assumed that you already have Zig installed.
 
 ## Prerequisites
 Install VSCode (https://code.visualstudio.com/docs/setup/linux)
