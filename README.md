@@ -13,7 +13,6 @@ Install VSCode (https://code.visualstudio.com/docs/setup/linux)
 Install the *lldb* debugger. This should be available via your package manager, ex. *sudo apt-get install lldb* on Debian/Ubuntu based systems.
 
 ## Set up VSCode
-This is the more challenging part.  
 
 1. Open VSCode
 2. Open the *Extensions* page either by clicking on the left panel icon or the menu View|Extensions
