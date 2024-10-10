@@ -25,7 +25,7 @@ Install the *lldb* debugger. This should be available via your package manager, 
 
 **launch.json**
 
-NOTE: Change *first_proj* to the name of your workspace.
+NOTE: Change *first_proj* in the following to the name of your workspace.
 
     {
         "version": "0.2.0",
@@ -34,7 +34,7 @@ NOTE: Change *first_proj* to the name of your workspace.
                 "name": "(lldb) Launch",
                 "type": "lldb",
                 "request": "launch",
-                "program": "${workspaceFolder}/zig-out/bin/first_proj",
+                "program": "${workspaceFolder}/zig-out/bin/*first_proj*",
                 "args": [],
                 "stopAtEntry": false,
                 "cwd": "${workspaceFolder}",
