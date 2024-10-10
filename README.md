@@ -7,8 +7,10 @@ This document was accurate as of Zig 0.13.0
 It is assumed that you already have Zig installed.
 
 ## Prerequisites
+
 Install VSCode (https://code.visualstudio.com/docs/setup/linux)
-Install the *lldb* debugger (should be available via your package manager)
+
+Install the *lldb* debugger. This should be available via your package manager, ex. *sudo apt-get install lldb* on Debian/Ubuntu based systems.
 
 ## Set up VSCode
 This is the more challenging part.  
