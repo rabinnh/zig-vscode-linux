@@ -16,7 +16,7 @@ Install the *lldb* debugger. This should be available via your package manager, 
 
 1. Open VSCode
 2. Open the *Extensions* page either by clicking on the left panel icon or the menu View|Extensions
-3. Install the *Zig Language* extnesion. This should ask you if you want to install the Zig Language Server. Answer 'Y'.
+3. Install the *Zig Language* extnesion. This may ask you if you want to install the Zig Language Server. Answer 'Y'.
 4. NOTE: This will also install the Zig Language Server but best to answer 'Y' when installing the Zig Language. Install the *Zig Language Extras* extension.
 5. Create a Zig test project (a workspace with *zig init*) 
 6. Make sure that the project builds.
