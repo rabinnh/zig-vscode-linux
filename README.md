@@ -34,7 +34,7 @@ NOTE: Change *first_proj* in the following to the name of your workspace.
                 "name": "(lldb) Launch",
                 "type": "lldb",
                 "request": "launch",
-                "program": "${workspaceFolder}/zig-out/bin/*first_proj*",
+                "program": "${workspaceFolder}/zig-out/bin/first_proj",
                 "args": [],
                 "stopAtEntry": false,
                 "cwd": "${workspaceFolder}",
