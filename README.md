@@ -16,12 +16,11 @@ This is the more challenging part.
 1. Open VSCode
 2. Open the *Extensions* page either by clicking on the left panel icon or the menu View|Extensions
 3. Install the *Zig Language* extnesion. This should ask you if you want to install the Zig Language Server. Answer 'Y'.
-4. NOTE: This will also install the Zig Language Server but best to answer 'Y' when installing the Zig Language.
-5.     Install the *Zig Language Extras* extension.
-6. Create a Zig test project (a workspace with *zig init*) 
-7. Make sure that the project builds.
-8. Create a *.vscode* folder in the root folder of your project.  IOW it should be a peer to *src*.
-9. Copy the following 2 files into *.vscode*:
+4. NOTE: This will also install the Zig Language Server but best to answer 'Y' when installing the Zig Language. Install the *Zig Language Extras* extension.
+5. Create a Zig test project (a workspace with *zig init*) 
+6. Make sure that the project builds.
+7. Create a *.vscode* folder in the root folder of your project.  IOW it should be a peer to *src*.
+8. Copy the following 2 files into *.vscode*:
 
 **launch.json**
 
